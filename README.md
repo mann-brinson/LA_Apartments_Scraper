@@ -2,7 +2,7 @@
 
 **USER GUIDE**
 
-**DESCRIPTION:** This application will create and run queries against an apartment and neighborhood database for Los Angeles rental housing options. 
+**DESCRIPTION:** This application will create and run queries against an apartment and neighborhood database for Los Angeles rental housing options. This project was based off of an assignment for USC INF 510 in Fall 2019 - Programming for Data Science, advised by Prof. Jeremy Abramson. 
 
 **HOW TO RUN THE PYTHON APPLICATION**
 
