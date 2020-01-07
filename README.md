@@ -4,6 +4,10 @@
 
 **FIGURE 1:** Example metric & scatterplot output from apartment and neighborhood scraping
 
+![final_output](/images/homeless_map.jpg)
+
+**FIGURE 2:** Output from neighborhood scraping onto a map of US census tracts. Visual here: https://datawrapper.dwcdn.net/e1Wqn/1/
+
 **USER GUIDE**
 
 **DESCRIPTION:** This application will create and run queries against an apartment and neighborhood database for Los Angeles rental housing options. This project was based off of an assignment for USC INF 510 in Fall 2019 - Programming for Data Science, advised by Prof. Jeremy Abramson. 
