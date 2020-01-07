@@ -1,12 +1,12 @@
 # LA Apartment & Neighborhood Scraper and Analytics
 
+![final_output](/images/homeless_map.png)
+
+**FIGURE 1:** Output from neighborhood scraping onto a map of US census tracts. Visual here: https://datawrapper.dwcdn.net/e1Wqn/1/
+
 ![final_output](/images/scatterplots.jpg)
 
-**FIGURE 1:** Example metric & scatterplot output from apartment and neighborhood scraping
-
-![final_output](/images/homeless_map.jpg)
-
-**FIGURE 2:** Output from neighborhood scraping onto a map of US census tracts. Visual here: https://datawrapper.dwcdn.net/e1Wqn/1/
+**FIGURE 2:** Example metric & scatterplot output from apartment and neighborhood scraping
 
 **USER GUIDE**
 
