@@ -1,8 +1,6 @@
-# INF510_Project
+# LA Apartment & Neighborhood Scraper and Analytics
 
 **USER GUIDE**
-
-**ENRICHED LOS ANGELES APARTMENT DATABASE TOOLS**
 
 **DESCRIPTION:** This application will create and run queries against an apartment and neighborhood database for Los Angeles rental housing options. 
 
