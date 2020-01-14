@@ -19,7 +19,7 @@ STEP 1: Install Anaconda Python 3.7
 
 STEP 2: Download the zip file 'INF510_Project-master.zip' locally
 
-STEP 3: Withn your terminal, navigate to the repository, and then into /src
+STEP 3: Within your terminal, navigate to the repository, and then into /src
 
 STEP 4: Install the required python modules with the following command
 
