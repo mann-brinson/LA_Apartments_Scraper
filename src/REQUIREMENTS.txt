@@ -34,6 +34,6 @@ sklearn==0.0
 sodapy==2.0.0
 soupsieve==1.9.5
 traitlets==4.3.3
-urllib3==1.25.7
+urllib3==1.26.5
 wcwidth==0.1.7
 xlrd==1.2.0
